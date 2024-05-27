@@ -1,0 +1,13 @@
+public static String purgeUTF8(String s){
+        String newString=s.replace("é", "e");
+        newString=newString.replace("è", "e");
+        newString=newString.replace("ê", "e");
+        newString=newString.replace("ë", "e");
+        newString=newString.replace("à", "a");
+        newString=newString.replace("â", "a");
+        newString=newString.replace("ä", "a");
+        newString=newString.replace("ç", "c");
+        newString=newString.replace("º", "o.");
+        newString=newString.replace("î", "i");
+        return newString;
+    }

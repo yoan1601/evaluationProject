@@ -1,0 +1,43 @@
+type_maison,description,surface,code_travaux,type_travaux,unité,prix_unitaire,quantite,duree_travaux
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,001,"Mur de soutenement et demi Cloture ht 1m",m3,"190000","26,98",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,101,"Decapage des terrains meubles",m2,"3072,87","101,36",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,102,"Dressage du plateforme",m2,"3736,26","101,36",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,103,"Fouille d'ouvrage terrain ferme",m3,"9390,93","24,44",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,104,"Remblai d'ouvrage",m3,"37563.26","15,59",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,105,"Travaux d'implantation",fft,"152656","1",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,201,"Maconnerie de moellons, ep=35cm",m3,"172114,4","9,62",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,2021,"Semelles isolees",m3,"573215,80","0,53",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,2022,"Amorces poteaux",m3,"573215,80","0,56",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,2023,"Chainage bas de 20x20",m3,"573215,80","2,44",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,203,"Remblai technique",m3,"37563.26","15,59",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,204,"Herrissonage ep=10",m3,"73245.4"," 7,8",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,205,"Beton ordinaire dosee a 300kg/m3",m3,"487815.8","5,46",90
+Villa A,"2 chambres, 10 toilletes, 1 salon",150,206,"Chape de 2cm",m3,"33566.54","77,97",90
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,001,"Mur de soutenement et demi Cloture ht 1m",m3,"190000","16,98",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,101,"Decapage des terrains meubles",m2,"3072,87","141,1",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,102,"Dressage du plateforme",m2,"3736,26","141,1",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,103,"Fouille d'ouvrage terrain ferme",m3,"9390,93","22,3",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,104,"Remblai d'ouvrage",m3,"37563.26","10,9",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,105,"Travaux d'implantation",fft,"152656","1",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,201,"Maconnerie de moellons, ep=35cm",m3,"172114,4","8,3",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,2021,"Semelles isolees",m3,"573215,80","1",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,2022,"Amorces poteaux",m3,"573215,80","1,1",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,2023,"Chainage bas de 20x20",m3,"573215,80","2,23",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,203,"Remblai technique",m3,"37563.26","15,32",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,204,"Herrissonage ep=10",m3,"73245.4"," 7,1",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,205,"Beton ordinaire dosee a 300kg/m3",m3,"487815.8","4,6",180
+Villa B,"10 chambres, 4 toilletes, 4 cuisines",125,206,"Chape de 2cm",m3,"33566.54","70,7",180
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,001,"Mur de soutenement et demi Cloture ht 1m",m3,"190000","25,05",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,101,"Decapage des terrains meubles",m2,"3072,87","111,4",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,102,"Dressage du plateforme",m2,"3736,26","111,4",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,103,"Fouille d'ouvrage terrain ferme",m3,"9390,93","23,23",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,104,"Remblai d'ouvrage",m3,"37563.26","10,9",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,105,"Travaux d'implantation",fft,"152656","1",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,201,"Maconnerie de moellons, ep=35cm",m3,"172114,4","10,2",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,2021,"Semelles isolees",m3,"573215,80","0,51",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,2022,"Amorces poteaux",m3,"573215,80","0,49",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,2023,"Chainage bas de 20x20",m3,"573215,80","1,98",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,203,"Remblai technique",m3,"37563.26","16,12",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,204,"Herrissonage ep=10",m3,"73245.4"," 8,12",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,205,"Beton ordinaire dosee a 300kg/m3",m3,"487815.8","8,12",120
+Villa C,"3 chambres, 2 toilletes, 2 salons, 1 cuisine",110,206,"Chape de 2cm",m3,"33566.54","69,22",120
